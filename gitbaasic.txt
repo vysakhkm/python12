@@ -1,0 +1,18 @@
+git and github
+---------------
+*used to store the projects and also used to share the projects.
+*anyone can access the projects in github when it is public.
+*also called version control system or management(Vcm).
+*github is accessed by git.
+
+git operations:
+1.push-remote repository to local repository, uploading projects and new updations.
+2.clone-remote repository to local repository, exact copy of project.
+3.pull-remote repository to local repository, giving new changes.
+
+
+push
+------
+
+1.git add-local storage to staging area.
+2.git commit-staging area to local repository.
